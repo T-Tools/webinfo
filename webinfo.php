@@ -11,7 +11,7 @@ $bold = "\e[1m";
 echo $red."";
 system(" toilet WEB INFO");
 system("sh logo.sh ");
-$ip = readline("\e[31m"." Enter Target Site Without (https://) : ");
+$ip = readline("\e[31m"." Enter Target Site Without (https://www.) : ");
 
 //IP of site
 echo $yellow."";
